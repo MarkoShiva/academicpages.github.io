@@ -9,11 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Projects
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
 
 Work experience
 ======
@@ -29,12 +27,25 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
+* Python
+  * Web: Flask, Django, scrapy
+  * Gui: PySide2, PyQt5
+  * AI/ML: PyTorch/TensorFlow, sklearn
+* C++/20
+  * QT Framework
+  * Embedded Development
   * Sub-skill 2.3
-* Skill 3
+* Mobile Development
+  * Android
+  * [Plasma Mobile](https://www.plasma-mobile.org/)
+
+* DevOps
+  * Git/Hg
+  * Jenkins/Bamboo
+  * YouTrack/Jira
+
+* Game Development
+  * Unity / C#  
 
 Publications
 ======
@@ -48,6 +59,12 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
+Education
+======
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}

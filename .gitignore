@@ -1,2 +1,5 @@
 _site/
 
+/codealike.json
+Gemfile.lock
+.idea/
