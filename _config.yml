@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Marko Pavlovic / Personal Website"
+title                    : "Marko Pavlovic | Personal Website"
 title_separator          : "-"
 name                     : &name "Marko Pavlovic"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Marko Pavlovic"
-  avatar           : "Me-New.png"
+  avatar           : "Me-New.webp"
   bio              : "Software Developer"
   location         : "Serbia"
   employer         :
