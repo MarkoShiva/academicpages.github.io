@@ -12,19 +12,35 @@ redirect_from:
 Projects
 ======
 
+  <ul>{% for post in site.projects %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2009 - onwards: Freelance Developer
+  * Odesk, Elance, Upwork
+  * Jobs included: 
+    * Writing scripts
+    * Making REST api's
+    * writing python, C++, Java applications
+    
+---
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Summer 2005 - onwards: DevOps Engineer/System Engineer
+  * Odesk, Elance, Upwork
+  * Jobs included:
+    * writing scripts
+    * writing CI/CD pipelines
+    * Installation and setup of various Linux distributions
+    * Installation and management of different RDBMS 
+    * installation configuration and monitoring of various servers
+    * Dockersation of applications
+    
+---
+
 Skills
 ======
 * Python
@@ -34,15 +50,17 @@ Skills
 * C++/20
   * QT Framework
   * Embedded Development
-  * Sub-skill 2.3
 * Mobile Development
   * Android
   * [Plasma Mobile](https://www.plasma-mobile.org/)
 
 * DevOps
   * Git/Hg
-  * Jenkins/Bamboo
+  * Jenkins/Bamboo/Maven
+  * Apache/nginx
   * YouTrack/Jira
+  * MySQL/PostgreSQL
+  * Nagios, ELK
 
 * Game Development
   * Unity / C#  
@@ -61,16 +79,16 @@ Talks
   
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Computer Science, 2000
+Mathematical Faculty of University of Belgrade
+* Various courses as I am mostly autodidact and I like self-learning
 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+---
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Being a moderator in Debian forums for a few years
+* Owning and maintaining a community of over 50000 Debian GNU/Linux users
+* Currently signed in to 10 different slack teams
+
+---
