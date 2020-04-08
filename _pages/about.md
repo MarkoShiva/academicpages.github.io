@@ -12,6 +12,7 @@ I am Software Developer with experience in development and support of various so
 For a long time I am supporter of [Free Software Foundation](https://www.fsf.org/) and its movement as well as [Open Source](https://opensource.org/) movement and as well I have been Linux user 
 for over 20 years now.
 
+
 In the past I used to work also Linux System Engineering jobs and DevOps jobs. 
 My current interests related to computer science include:
 

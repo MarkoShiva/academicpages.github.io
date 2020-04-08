@@ -66,14 +66,6 @@ Skills
   * Unity / C#  
 
 ---
-  
-Education
-======
-* Computer Science, 2000
-Mathematical Faculty of University of Belgrade
-* Various courses as I am mostly autodidact and I like self-learning
-
----
 
 Service and leadership
 ======
