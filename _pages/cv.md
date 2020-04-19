@@ -11,21 +11,29 @@ redirect_from:
 
 Projects
 ======
+Many but I will list some of my Open Source projects.  
 
   <ul>{% for post in site.projects %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-
+Education
+======
+* Well first and foremost I am mostly selfthaught programmer and software engineer
+  who in the past have worked a lot with Linux started using Linux in late 90's
+  * Mathematical Faculty university of Belgrade 2000-2002
+    Computer Science Informatics -- Bachelor of Science | not finished do to financial problems
+  * You can check the rest of my courses and certificates in courses area of the page
 
 Work experience
 ======
-* Summer 2009 - onwards: Freelance Developer
+* Summer 2005 - onwards: Freelance Developer
   * Odesk, Elance, Upwork
   * Jobs included: 
     * Writing scripts
     * Making REST api's
     * writing python, C++, Java applications
+
     
 ---
 
@@ -37,8 +45,8 @@ Work experience
     * Installation and setup of various Linux distributions
     * Installation and management of different RDBMS 
     * installation configuration and monitoring of various servers
-    * Dockersation of applications
-    
+    * Planing writing and also implementing microservice applications and systems from scratch
+    * Dockerisation of applications    
 ---
 
 Skills
@@ -54,7 +62,7 @@ Skills
   * Android
   * [Plasma Mobile](https://www.plasma-mobile.org/)
 
-* DevOps
+* Tooling
   * Git/Hg
   * Jenkins/Bamboo/Maven
   * Apache/nginx
