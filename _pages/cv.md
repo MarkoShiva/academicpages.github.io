@@ -30,9 +30,14 @@ Work experience
 * Summer 2005 - onwards: Freelance Developer
   * Odesk, Elance, Upwork
   * Jobs included: 
-    * Writing scripts
-    * Making REST api's
-    * writing python, C++, Java applications
+    * Writing applications multi-tier:
+        * C, C++, Java
+    * Writing backend applications:
+        * Python, C++ 
+    * Making REST api's:
+        * Python
+    
+* writing Open Source python, C++, Java applications
 
     
 ---
@@ -48,7 +53,7 @@ Work experience
     * Planing writing and also implementing microservice applications and systems from scratch
     * Working with:
         * Docker, Kubernetes, Rocket
-        * Ansible, Puppet, 
+        * Ansible, Puppet
         * Jenkins, Drone CI/CD, Circle CI/CD
         * Gitlab, Gitolite
     
@@ -57,23 +62,36 @@ Work experience
 
 Skills
 ======
-* Python
-  * Web: Flask, Django, scrapy
-  * Gui: PySide2, PyQt5
-  * AI/ML: PyTorch/TensorFlow, sklearn
-* C++/20
-  * QT Framework
-  * Embedded Development
-* Mobile Development
-  * Android
-  * [Plasma Mobile](https://www.plasma-mobile.org/)
+* Languages used:
+    * C basic stuff like basic driver development or simple applications
+    * C++/20
+        * QT Framework
+        * Embedded Development
+    * Python
+        * Web: Flask, Django, scrapy, Wagtail 
+        * many other libraries
+        * Gui: PySide2, PyQt5
+        * AI/ML: PyTorch/TensorFlow, sklearn
+    * Mobile Development
+        * Android
+        * C++/QT on Android [Plasma Mobile](https://www.plasma-mobile.org/)
+        * Kotlin
+    * Ruby scripting
+    * Java Core stuff also Java Spring Boot and few others
+    * Many other languages like some functional LISP, Scheme, Ocaml 
+    * C# -- Used mostly for some game development with Unity3d
 
 * Tooling
   * Git/Hg
   * Jenkins/Bamboo/Maven
   * Apache/nginx
-  * YouTrack/Jira
+  * YouTrack/Jira/Confluence
+  * Hashicorp tools
+  * Atlassian tools
   * MySQL/PostgreSQL
+  * AWS
+  * GCP
+  * Docker/Kubernetes
   * Nagios, ELK
 
 * Game Development
