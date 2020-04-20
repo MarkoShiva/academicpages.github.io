@@ -46,7 +46,13 @@ Work experience
     * Installation and management of different RDBMS 
     * installation configuration and monitoring of various servers
     * Planing writing and also implementing microservice applications and systems from scratch
-    * Dockerisation of applications    
+    * Working with:
+        * Docker, Kubernetes, Rocket
+        * Ansible, Puppet, 
+        * Jenkins, Drone CI/CD, Circle CI/CD
+        * Gitlab, Gitolite
+    
+      
 ---
 
 Skills
