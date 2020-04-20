@@ -12,6 +12,8 @@ redirect_from:
 Projects
 ======
 Many but I will list some of my Open Source projects.  
+For now check my [github profile](https://github.com/MarkoShiva)
+A lot of projects are in private repositories.
 
   <ul>{% for post in site.projects %}
     {% include archive-single-cv.html %}
