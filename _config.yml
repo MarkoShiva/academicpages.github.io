@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Marko Pavlovic"
+  name             : "Marko Shiva Pavlovic"
   avatar           : "Me-New.webp"
   bio              : "Software Developer"
   location         : "Serbia"
-  employer         :
+  employer         : "Freelancer"
   googlescholar    :
   email            : "marko.shiva.pavlovic@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://shiva.codes"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -105,15 +105,15 @@ author:
   linkedin         : "markoshivapavlovic"
   orcid            :
   pinterest        :
+  devto            : "MarkoShiva"
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "story/916844"
   steam            :
   tumblr           :
   twitter          : "Mark0x1"
   vine             :
   weibo            :
   xing             :
-  youtube          :
   wikipedia        :
 
 
