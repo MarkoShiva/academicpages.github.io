@@ -103,6 +103,6 @@ Service and leadership
 ======
 * Being a moderator in Debian forums for a few years
 * Owning and maintaining a community of over 50000 Debian GNU/Linux users
-* Currently signed in to 10 different slack teams
+* Currently signed in to over 20 different slack teams
 
 ---
